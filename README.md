@@ -52,3 +52,5 @@
 <a href="http://www.cburch.com/logisim/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Logisim-005571?style=for-the-badge&logo=cogs&logoColor=white" alt="logisim" width="40" height="40"/> </a>
 </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhihana&show_icons=true&theme=dark&locale=en&layout=compact" alt="dhihanahmed" /></p>
