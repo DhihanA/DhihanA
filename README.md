@@ -1,7 +1,7 @@
 <h1 align='center'>🤖 Hello there, I'm Dhihan!</h1>
 
 <ul>
-  <li><p>🌱 I’m currently a <strong>junior</strong> pursuing a BS degree in <strong>Computer Science</strong> at <a href="https://www.stevens.edu/" target="_blank"><strong>Stevens Institute of Technology</strong></a>.</p></li>
+  <li><p>🌱 I’m currently a <strong>senior</strong> pursuing a BS degree in <strong>Computer Science</strong> at <a href="https://www.stevens.edu/" target="_blank"><strong>Stevens Institute of Technology</strong></a>.</p></li>
   <li><p>️🧍‍♂  Personal website <a href="https://dhihan.com/" target="_blank"><strong>here</strong></a>!</p></li>
   <li><p>🔍 Actively searching for jobs/internships, so feel free to contact me! </p></li>
   <li><p>📫 If you want to reach out to me, go to my website for my social links 😉! Orrr, click these:</p>
